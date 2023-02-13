@@ -1,12 +1,11 @@
 # Bean38
 
-*![ete](imgur.com image replace me!)*
-
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [sou-aomi](https://github.com/sou-aomi)/ [@sou_aomi](https://twitter.com/sou_aomi)
 * Hardware Supported: Bean38 PCB, Pro micro
 * Hardware Availability: https://github.com/sou-aomi/Bean38
+
 
 Make example for this keyboard (after setting up your build environment):
 
